@@ -34,7 +34,6 @@ photo = "photo.jpg"
 
 credit ="Alex:)™~" 
 OWNER = int(os.environ.get("6559064772", 6559064772)
-try: 
     ADMINS=[6559064772] 
     for x in (os.environ.get("ADMINS", "6559064772 6705657501").split()):  
         ADMINS.append(int(x)) 
