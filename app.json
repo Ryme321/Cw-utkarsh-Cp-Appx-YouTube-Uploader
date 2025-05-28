@@ -1,5 +1,5 @@
 {
-    "name": "𝐓𝐞𝐱𝐭 Uploader scammer",
+    "name": "𝐓𝐞𝐱𝐭 Uploader ryme ",
     "description": "Download videos from various websites using this telegram bot",
     "logo": "https://graph.org/file/5af356000ab4f88312c0b.jpg",
     "keywords": [
@@ -12,11 +12,11 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "Enter your API id You can generate by https://my.telegram.org/auth",
+            "description": "29320367",
             "required": true
         },
         "API_HASH": {
-            "description": "Enter your API Hash You can generate by https://my.telegram.org/auth",
+            "description": "f8083ef747c160b7eb41095454f59f92",
             "required": true
         },
         "BOT_TOKEN": {
